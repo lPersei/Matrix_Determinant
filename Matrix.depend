@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1527785865 source:c:\users\persei\desktop\Новая папка\matrix\main.c
+	"program.h"
+
+1527796067 c:\users\persei\desktop\Новая папка\matrix\program.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
+1527784590 source:c:\users\persei\desktop\Новая папка\matrix\program.c
+	"program.h"
+
+1527770011 c:\users\persei\desktop\Новая папка\matrix\program.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<stdbool.h>
+	"program.h"
+
